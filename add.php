@@ -16,5 +16,6 @@ if($_POST['a']&&$_POST['b']){
  
 ?>
  
-</body> </html>
+</body> 
+</html>
  
